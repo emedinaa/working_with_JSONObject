@@ -1,0 +1,16 @@
+{
+  "response" : 1,
+  "mensaje" : "mensaje",
+  "data":{
+    "videos":[{
+      "title":"titulo de video",
+      "ruta":"ruta video"
+    },{
+      "title":"titulo de video",
+      "ruta":"ruta video"
+    },{
+      "title":"titulo de video",
+      "ruta":"ruta video"
+    }]
+  }
+}
